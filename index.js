@@ -10,8 +10,18 @@ function subtract(a,b){
 function multiply(a,b){
   return a*b;
 }
-
-
+function inc(a){
+  return a+1;
+}
+function dec(a){
+  return a-1;
+}
+function makeInt(a){
+  return parseInt(a);
+}
+function preserveDecimal(a){
+  return parseFloat(a);
+}
 add(1,1);
 divide(2,2);
 subtract(1,2);
