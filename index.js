@@ -28,5 +28,5 @@ subtract(1,2);
 multiply(2,2);
 inc(1);
 dec(2);
-makeInt("22");
+makeInt("9000");
 preserveDecimal(2.22);
