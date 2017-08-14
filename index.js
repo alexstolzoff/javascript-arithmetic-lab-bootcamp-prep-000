@@ -26,3 +26,7 @@ add(1,1);
 divide(2,2);
 subtract(1,2);
 multiply(2,2);
+inc(1);
+dec(2);
+makeInt("22");
+preserveDecimal(2.22);
