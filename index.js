@@ -28,5 +28,5 @@ subtract(1,2);
 multiply(2,2);
 inc(1);
 dec(2);
-makeInt(fuck);
+makeInt("fuck");
 preserveDecimal(2.22);
